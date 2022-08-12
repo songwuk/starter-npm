@@ -1,0 +1,14 @@
+{
+  "name": "starter-npm",
+  "version": "0.0.0",
+  "type": "module",
+  "description": "A commander-based cli",
+  "main": "src/index.js",
+  "bin": {
+    "pcli": "./lib/start.cli.js"
+  },
+  "dependencies": {
+    "commander": "^9.4.0",
+    "inquirer": "^9.1.0"
+  }
+}
