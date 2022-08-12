@@ -4,5 +4,9 @@
 
 ```sh
   pnpm link 
-  pcli 
+```
+
+
+```sh
+  pcli init example
 ```
