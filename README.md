@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-  pnpm link 
+  npm link || npm install . -g
 ```
 
 
